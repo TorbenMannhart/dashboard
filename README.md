@@ -1,2 +1,10 @@
-# dashboard_template
-Nextjs + Tailwind CSS + Fast API + MongoDB
+# Next Js
+
+# Tailwind CSS
+
+# Fast API
+
+# MongoDB
+
+
+
